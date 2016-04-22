@@ -9,9 +9,7 @@ import android.widget.TextView;
 
 import java.util.ArrayList;
 
-/**
- * Created by USUARIO on 21/04/2016.
- */
+
 public class clsEquipoAdapter extends RecyclerView.Adapter<clsEquipoAdapter.clsEquipoViewHolder>{
     private ArrayList<clsEquipo> item;
 
